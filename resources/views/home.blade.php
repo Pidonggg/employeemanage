@@ -28,9 +28,9 @@
             <div class="small-box bg-success">
 =======
             <div class="small-box bg-info">
->>>>>>> f55fbbbdebc6b39cac71a832f188058d27dd3564
+>>>>>>> f55fbbbdebc6b39cac71a832f188058d27dd3564 m
               <div class="inner">
-                <h3>BSIT-3B EXAMINERS</h3>
+                <h3>BSIT-3B EXAMINER</h3>
 
                 <p></p>
               </div>
