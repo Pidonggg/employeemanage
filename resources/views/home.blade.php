@@ -24,7 +24,11 @@
         <div class="row">
           <div class="col-lg-3 col-6">
             <!-- small box -->
+<<<<<<< HEAD
             <div class="small-box bg-success">
+=======
+            <div class="small-box bg-info">
+>>>>>>> f55fbbbdebc6b39cac71a832f188058d27dd3564
               <div class="inner">
                 <h3>BSIT-3B EXAMINERS</h3>
 
